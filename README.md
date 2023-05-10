@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/-Amisha_Goyal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/amisha-goyal-458135233/)](https://www.linkedin.com/in/amisha-goyal-458135233/)
 [![](https://img.shields.io/badge/-amishagoyal2805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Amisha goyal)](mailto:amishagoyal2805@gmail.com)
 
-[![](https://img.shields.io/badge/-harshit995-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20BCE10496)
+[![](https://img.shields.io/badge/-20BCE10496-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20BCE10496)
 
 
 <br />
