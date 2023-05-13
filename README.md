@@ -20,7 +20,6 @@
 
 <br />
 <img align="right" alt="GIF" src="code.gif?raw=true" width="420" height="290" /> 
-
 - 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Badminton | Basketball | Swimming | Coding ***
 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=harshit995)
