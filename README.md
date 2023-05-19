@@ -34,7 +34,7 @@
 
 
 
-<summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
+<summary style="text-align : center"><b># 📊 GitHub Stats:</b>
   <br/>
   <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=20BCE10496&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=fff&text_color=ddd&icon_color=1CADFB&bg_color=0F2D3D&include_all_commits=true" />
