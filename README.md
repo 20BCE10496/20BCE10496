@@ -38,7 +38,7 @@
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=20BCE10496&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0F2D3D&stroke=1CADFB&ring=1CADFB&fire=1CADFB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1CADFB&border=DDDDDD00&sideLabels=DDDDDD&dates=CCCCCC" />
   </p> -->
  <td><img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20BCE10496&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-    <a href="http://www.github.com/ruchitadas-18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruchitadas-18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--     <a href="http://www.github.com/ruchitadas-18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruchitadas-18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
     
   </summary>
 <p align="center">
